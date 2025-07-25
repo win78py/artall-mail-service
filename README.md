@@ -9,6 +9,12 @@
 
 Sends email notifications (verification, donations) via Gmail API.
 
+## Tech Stack
+- NestJS, TypeScript
+- Nodemailer
+- Gmail API (OAuth2)
+- gRPC
+
 ### Overall Picture
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/0329f15d-fb65-42f7-81a6-b7f515ec314a" />
 
